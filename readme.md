@@ -79,8 +79,8 @@ Below are the model checkpoints for the KITTI and NYUv2 datasets, along with the
 
 | Dataset  | a1    | a2    | a3    | Abs Rel | RMSE  | Log_10 | RMSE Log | SILog  | Sq Rel | Checkpoint |
 |----------|-------|-------|-------|---------|-------|--------|----------|--------|--------|------------|
-| KITTI | 0.950 | 0.992 | 0.998 | 0.070 | 2.861 | 0.030 | 0.106   | 9.972 | 0.285 | [Download]()  |
-| NYUv2 | 0.866 | 0.978 | 0.995 | 0.119 | 0.419 | 0.050 | 0.150   | 12.362 | 0.072 | [Download]()  |
+| KITTI | 0.950 | 0.992 | 0.998 | 0.070 | 2.861 | 0.030 | 0.106   | 9.972 | 0.285 | [Download](https://univsbadz-my.sharepoint.com/:f:/g/personal/chaouki_ziara_univ-sba_dz/ErOQzGUNNkJGn6lBbKNk9tMBiu2p9l2V8xucLOyv_qSffw?e=nvSfyJ)  |
+| NYUv2 | 0.866 | 0.978 | 0.995 | 0.119 | 0.419 | 0.050 | 0.150   | 12.362 | 0.072 | [Download](https://univsbadz-my.sharepoint.com/:f:/g/personal/chaouki_ziara_univ-sba_dz/ErOQzGUNNkJGn6lBbKNk9tMBiu2p9l2V8xucLOyv_qSffw?e=nvSfyJ)  |
 
 ## ✍️ Author <a name="author"></a>
 
